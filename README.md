@@ -71,3 +71,7 @@ The entire model consists of 14 layers in total. In addition to layers below lis
 * Dropout
 * Batch Normalization
 14. Fully Connected Layer with 10 units (number of image classes)
+
+# Reference
+
+[CIFAR10](https://github.com/deep-diver/CIFAR10-img-classification-tensorflow)
