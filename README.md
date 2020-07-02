@@ -38,6 +38,9 @@ Second, you should put in the root of your project following this structure :
 
 The entire model consists of 14 layers in total. In addition to layers below lists what techniques are applied to build the model.
 
+<img src="https://github.com/adnaneaabbar/reverse-image-search-engine/blob/master/static/conv_model.png">
+
+
 1. Convolution with 64 different filters in size of (3x3)
 2. Max Pooling by 2
 * ReLU activation function
