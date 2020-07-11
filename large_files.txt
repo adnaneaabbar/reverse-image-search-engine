@@ -1,0 +1,3 @@
+61710560 checkpoints/model_epoch_3.ckpt.data-00000-of-00001
+61710560 checkpoints/model_epoch_2.ckpt.data-00000-of-00001
+1938231 pickle_saves/train_images_pickle.pickle

@@ -1,3 +1,6 @@
 /pickle_saves
 /checkpoints
 /dataset
+/static/images
+/public
+/.vscode
