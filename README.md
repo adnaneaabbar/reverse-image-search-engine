@@ -74,6 +74,7 @@ The entire model consists of 14 layers in total. In addition to layers below lis
 
 # Deploying using Flask
 
+<img src="https://github.com/adnaneaabbar/reverse-image-search-engine/blob/master/static/Result.png">
 
 # Reference
 
